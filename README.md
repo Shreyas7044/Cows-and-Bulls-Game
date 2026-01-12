@@ -41,7 +41,7 @@ Result:
 ---
 
 ## 📷 Screenshot
-![Application Screenshot]()
+![Application Screenshot](Cows-and-Bulls-Game/screenshot.png)
 
 ---
 
